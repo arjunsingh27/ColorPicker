@@ -68,3 +68,19 @@ h2{
 .pink{
 background-color: #db2777;
 }
+@media (max-width: 768px) {
+  .gridItem {
+  height: 120px;
+  }
+  .flexContainer {
+    
+    height: 300px;
+  }
+  .h2{
+    margin-bottom: -20px;
+  }
+  section{
+    margin-top: 100px;
+    g
+  }
+}
